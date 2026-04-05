@@ -5,7 +5,7 @@ This was a guided project on a little Spotify Display, but My unique twist is go
 
 I made the project, because I've never touched hardware before, and I think things with screena are cool. Everything I'm doing right now is brand new to me, from cad, to coding in C++. I did this project to help me learn the basics for one of my dream projects I want to make.
 
-
+(I used the github AI thingy to organzie the files into folders, I don't know how to use git, please don't ban me lol)
 ## The Case
 
 <img width="1762" height="1025" alt="image" src="https://github.com/user-attachments/assets/35d421a7-563e-44b8-956f-90713d526a11" />
