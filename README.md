@@ -23,5 +23,5 @@ I made the project, because I've never touched hardware before, and I think thin
 | 1.8 TFT Screen  | This is the Display Screen for the entire project                                                                         | 1        | 4.68             | https://www.aliexpress.us/item/3256806984965431.html | AliExpress  |
 | Mechanical Keys | Its for the macros, smallest is pack of 10.                                                                               | 1        | 0.99             | https://www.aliexpress.us/item/3256807593325348.html | AliExpress  |
 | M4 Inserts      | To Screw the Screen to the Plastic Case                                                                                   | 1        | 2.20             | https://www.aliexpress.us/item/3256808711257006.html | AliExpress  |
-| Dupoint Cable   | To connect the keyboard switches and screen to the Ep 32                                                                  | 1        | 2.30             | https://www.aliexpress.us/item/3256803454364801.html | Aliexpress  |
-Est Total before shipping and Tax! = $14.69
+| Dupoint Cable   | (Need 14, only come in packs of 10 so need two )To connect the keyboard switches and screen to the Ep 32                                                                  | 2        | 4.60             | https://www.aliexpress.us/item/3256803454364801.html | Aliexpress  |
+Est Total before shipping and Tax! = $15.99
