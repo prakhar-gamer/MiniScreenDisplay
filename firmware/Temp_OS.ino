@@ -7,11 +7,15 @@
 #include <SPI.h>
 #include <TJpg_Decoder.h>
 #include<HTTPClient.h>
-#define TFT_CS 5
-#define TFT_RST 17
-#define TFT_DC 16
-#define TFT_SCLK 18
-#define TFT_MOSI 23
+#define TFT_CS 1
+#define TFT_RST 2
+#define TFT_DC 3
+#define TFT_SCLK 4
+#define TFT_MOSI 5
+
+#define BUTTON_1 32
+#define BUTTON_2 34
+#define BUTTON_3 35
 
 
 const char* CLIENT_ID = "not gonna leak it buddy";
@@ -79,5 +83,7 @@ void loop() {
     String time = currentTime + ":" + totalTime;
     tft.write(time.c_str());
   }
+
+  
 }
 
